@@ -8,15 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["sh","-c","python - <<'PY'\n\
-import sys\n\
-print('Python:', sys.version)\n\
-try:\n\
-    import google\n\
-    print('google package:', getattr(google,'__file__', None))\n\
-    from google import genai\n\
-    print('SUCCESS: imported genai')\n\
-except Exception as e:\n\
-    import traceback\n\
-    traceback.print_exc()\n\
-PY"]
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8080}"]
