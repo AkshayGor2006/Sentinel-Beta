@@ -9,7 +9,7 @@ def generate_gemini_text(prompt: str):
         )
 
     try:
-        from google import genai
+        import google.generativeai as genai
     except ImportError as error:
         return (
             "Gemini SDK is not installed in this deployment. "
