@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 220 40% 3%;
+  --foreground: 210 30% 92%;
+  --card: 222 35% 6%;
+  --card-foreground: 210 30% 92%;
+  --popover: 222 35% 7%;
+  --popover-foreground: 210 30% 92%;
+  --border: 220 20% 18%;
+  --input: 220 20% 18%;
+  --ring: 189 94% 53%;
+  --radius: 0.75rem;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #05070b;
+  color: hsl(var(--foreground));
+  font-feature-settings: "cv11", "ss01";
+}
+
+::selection {
+  background: rgba(34, 211, 238, 0.25);
+  color: #ffffff;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.18);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.3);
+}
+
+/* Glassmorphism surface */
+.glass {
+  background: linear-gradient(
+    180deg,
+    rgba(16, 23, 40, 0.7) 0%,
+    rgba(11, 16, 27, 0.55) 100%
+  );
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(148, 163, 184, 0.09);
+}
+
+.glass-hover {
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+.glass-hover:hover {
+  border-color: rgba(34, 211, 238, 0.35);
+  box-shadow: 0 0 0 1px rgba(34, 211, 238, 0.08), 0 20px 40px -20px rgba(34, 211, 238, 0.25);
+  transform: translateY(-2px);
+}
+
+/* Background grid */
+.bg-dot-grid {
+  background-image: radial-gradient(rgba(148, 163, 184, 0.14) 1px, transparent 1px);
+  background-size: 26px 26px;
+}
+
+.text-gradient {
+  background: linear-gradient(90deg, #22d3ee 0%, #60a5fa 55%, #3b82f6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.glow-cyan {
+  box-shadow: 0 0 0 1px rgba(34, 211, 238, 0.25), 0 0 40px rgba(34, 211, 238, 0.15);
+}
+
+.mono-tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.03;
+  z-index: 1;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
