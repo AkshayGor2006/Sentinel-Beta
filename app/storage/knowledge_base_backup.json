@@ -1,0 +1,10 @@
+[
+    {
+        "issue": "possible secret exposure",
+        "count": 56
+    },
+    {
+        "issue": "hardcoded password",
+        "count": 70
+    }
+]

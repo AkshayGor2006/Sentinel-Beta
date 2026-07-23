@@ -1,0 +1,1338 @@
+[
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-13 15:27:11.848623",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa2pdn1hc\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa2pdn1hc\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa2pdn1hc\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa2pdn1hc\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-13 15:35:07.079047",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpchd01hi_\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpchd01hi_\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpchd01hi_\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpchd01hi_\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-13 15:56:20.118671",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpr5qtwq47\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpr5qtwq47\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpr5qtwq47\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpr5qtwq47\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-13 15:57:16.466998",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpba1awwbn\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpba1awwbn\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpba1awwbn\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpba1awwbn\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-13 16:17:40.813462",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwgyzbr_1\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwgyzbr_1\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwgyzbr_1\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwgyzbr_1\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-22-OpenAI-API-Basics",
+        "date": "2026-06-13 22:52:11.403113",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpqqj3l4pi\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpqqj3l4pi\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpqqj3l4pi\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpqqj3l4pi\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-14 15:36:26.886524",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp29c2cni1\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp29c2cni1\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp29c2cni1\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp29c2cni1\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-22-OpenAI-API-Basics",
+        "date": "2026-06-14 15:54:28.671643",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpdxb2syk7\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpdxb2syk7\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpdxb2syk7\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpdxb2syk7\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day4-fastapi",
+        "date": "2026-06-14 16:29:15.319505",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-14 16:29:42.138940",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmput09f3cv\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmput09f3cv\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmput09f3cv\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmput09f3cv\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-22-OpenAI-API-Basics",
+        "date": "2026-06-15 11:21:27.397108",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpvm2bsh9k\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpvm2bsh9k\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpvm2bsh9k\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpvm2bsh9k\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-15 15:22:50.327794",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpjbptqztu\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpjbptqztu\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpjbptqztu\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpjbptqztu\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-22-OpenAI-API-Basics",
+        "date": "2026-06-15 15:23:30.896589",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmppar5d5ix\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmppar5d5ix\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmppar5d5ix\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmppar5d5ix\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-15 15:46:30.876963",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp4w_hd3if\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp4w_hd3if\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp4w_hd3if\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp4w_hd3if\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-15 16:25:42.307700",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpcoyaytu3\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpcoyaytu3\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpcoyaytu3\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpcoyaytu3\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-15 16:51:48.892574",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpnsaiislu\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpnsaiislu\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpnsaiislu\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpnsaiislu\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-15 23:12:12.291485",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa0ys2baq\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa0ys2baq\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa0ys2baq\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpa0ys2baq\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day4-fastapi",
+        "date": "2026-06-15 23:13:40.725766",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/days1-GitHub-Repository-Loader-Agent",
+        "date": "2026-06-18 21:49:18.677781",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-18 22:07:41.508142",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg5hz1k98\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg5hz1k98\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg5hz1k98\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg5hz1k98\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-18 22:23:14.549238",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp87hssywq\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp87hssywq\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp87hssywq\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp87hssywq\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-18 22:37:26.539890",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpzzo19ozw\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpzzo19ozw\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpzzo19ozw\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpzzo19ozw\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-18 22:49:50.462955",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwvqa1wkb\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwvqa1wkb\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwvqa1wkb\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpwvqa1wkb\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/days1-GitHub-Repository-Loader-Agent",
+        "date": "2026-06-18 22:50:35.095381",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-22-OpenAI-API-Basics",
+        "date": "2026-06-18 22:50:57.223765",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpbhdc953m\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpbhdc953m\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpbhdc953m\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpbhdc953m\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-19 10:45:50.794746",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg54_cux3\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg54_cux3\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg54_cux3\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpg54_cux3\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/day20-Build-file-tree-generator",
+        "date": "2026-06-19 11:03:30.494376",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt2rlyg6k\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt2rlyg6k\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt2rlyg6k\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt2rlyg6k\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/days1-GitHub-Repository-Loader-Agent",
+        "date": "2026-06-19 11:24:43.171528",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/mramansayyad/EcoTraceCarbon-Intelligence",
+        "date": "2026-06-19 11:40:00.147535",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/mramansayyad/EcoTraceCarbon-Intelligence",
+        "date": "2026-06-19 11:43:20.734900",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/days1-GitHub-Repository-Loader-Agent",
+        "date": "2026-06-19 15:13:59.755197",
+        "report": {
+            "total_issues": 0,
+            "severity_count": {
+                "CRITICAL": 0,
+                "HIGH": 0,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": []
+        }
+    },
+    {
+        "repo": "https://github.com/AkshayGor2006/Day-21-Read-and-summarize-selected-files",
+        "date": "2026-06-19 16:17:58.655422",
+        "report": {
+            "total_issues": 4,
+            "severity_count": {
+                "CRITICAL": 2,
+                "HIGH": 2,
+                "MEDIUM": 0,
+                "LOW": 0
+            },
+            "issues": [
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt91znxxp\\auth.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt91znxxp\\config.py",
+                    "issue": "Possible secret exposure",
+                    "risk": "Application secrets may be leaked",
+                    "fix": "Move secrets to secure storage",
+                    "severity": "CRITICAL",
+                    "risk_score": 10,
+                    "priority": "Fix Immediately"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt91znxxp\\create_admin.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                },
+                {
+                    "file": "C:\\Users\\hp\\AppData\\Local\\Temp\\tmpt91znxxp\\models.py",
+                    "issue": "Hardcoded password",
+                    "risk": "Credentials can leak through source code",
+                    "fix": "Use environment variables",
+                    "severity": "HIGH",
+                    "risk_score": 7,
+                    "priority": "Fix Soon"
+                }
+            ]
+        }
+    }
+]

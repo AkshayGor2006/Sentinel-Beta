@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+sentinel.db
+
+# Vector DB
+vector_db/
+vector_db_local/
+vector_db_gemini/
+
+# GitHub secrets
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
