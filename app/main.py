@@ -19,7 +19,8 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:3000",
+    "http://localhost:3000",
+    "https://sentinel-beta-teal.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
