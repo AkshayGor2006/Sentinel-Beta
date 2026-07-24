@@ -16,7 +16,7 @@ class Settings:
     GITHUB_CLIENT_SECRET = "deb663d2d78bdea1fb8ae61cfac0e07e59aac0cd"
 
     GITHUB_CALLBACK_URL = (
-        "http://localhost:8001/github/callback"
+    "https://sentinel-beta-production.up.railway.app/github/callback"
     )
 
     GEMINI_API_KEY = GEMINI_API_KEY
