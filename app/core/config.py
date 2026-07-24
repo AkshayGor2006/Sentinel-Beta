@@ -11,9 +11,9 @@ class Settings:
 
     VERSION = "1.0.0"
 
-    GITHUB_CLIENT_ID = "Ov23lij72Q8kP7bmYaTy"
+    GITHUB_CLIENT_ID = os.getenv("GITHUB_CLIENT_ID")
 
-    GITHUB_CLIENT_SECRET = "deb663d2d78bdea1fb8ae61cfac0e07e59aac0cd"
+    GITHUB_CLIENT_SECRET = os.getenv("GITHUB_CLIENT_SECRET")
 
     GITHUB_CALLBACK_URL = (
     "https://sentinel-beta-production.up.railway.app/github/callback"
